@@ -31,6 +31,69 @@
       "amount": "1001",
       "transaction": "testing130111",
       "date": "2023-03-12T18:30:00.000Z"
+    },
+    {
+      "id": "abc",
+      "name": "abc123",
+      "amount": "500",
+      "transaction": "3021mk455",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "adsf",
+      "name": "fadsf",
+      "amount": "fsadfdsa",
+      "upiid2": "fdsafds",
+      "transaction": "fadfds",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "abc17",
+      "name": "abc17",
+      "amount": "1700",
+      "upiid2": "testing@ybl",
+      "transaction": "abc171700",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "1703abc",
+      "name": "1703abc",
+      "amount": "10000",
+      "upiid2": "testing@ybl",
+      "transaction": "12781kbci983",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "sanjay0102",
+      "name": "sanjay",
+      "amount": "1000",
+      "upiid2": "demo@ybl",
+      "transaction": "Re839843jjf398",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "SAN001",
+      "name": "Sanjay Kumar",
+      "amount": "1000",
+      "upiid2": "testing@ybl",
+      "transaction": "testing0017",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "TESTING01",
+      "name": "TESTING01",
+      "amount": "400",
+      "upiid2": "testing@ybl",
+      "transaction": "TESTING01400",
+      "date": "2023-03-16T18:30:00.000Z"
+    },
+    {
+      "id": "adkajk",
+      "name": "kdsajf",
+      "amount": "fkadsjkf",
+      "upiid2": "alkdsjf",
+      "transaction": "fflkdsajf",
+      "date": "2023-03-16T18:30:00.000Z"
     }
   ],
   "withdrawal": [
@@ -51,11 +114,20 @@
       "upiid": "testing001@ybl",
       "ifsc": "testing001",
       "date": "2023-03-12"
+    },
+    {
+      "id": "abc123",
+      "name": "abc123",
+      "account": "123032510",
+      "amount": "100",
+      "upiid": "xyz@paytm.com",
+      "ifsc": "ibibh002032",
+      "date": "2023-03-16T18:30:00.000Z"
     }
   ],
   "upidetails": [
     {
-      "upi": "testindddg01@ybl",
+      "upi": "testing@ybl",
       "id": 1
     }
   ],

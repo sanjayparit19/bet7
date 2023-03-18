@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --host 172.31.34.233 --port 3001 db.json"
+    "start": "json-server --host 92.204.219.2 --port 3001 db.json"
   },
   "author": "",
   "license": "ISC",
